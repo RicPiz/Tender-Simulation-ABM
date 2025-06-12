@@ -16,7 +16,7 @@ This model was created to explore how complex behaviors, such as a "race to the 
 
 ## Screenshot
 
-![NetLogo Simulation Interface](interface.png)
+![NetLogo Simulation Interface](interface.PNG)
 
 ## How to Run the Model
 
