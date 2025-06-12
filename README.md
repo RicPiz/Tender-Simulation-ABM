@@ -43,5 +43,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 *   **Author:** Riccardo Pizzuti
 *   **Mail:** r.pizzuti92@gmail.com
-*   **LinkedIn:** [https://www.linkedin.com/in/ricpiz92/](ricpiz92)
-*   **GitHub:** [https://github.com/RicPiz](RicPiz)
+*   **LinkedIn:** [https://www.linkedin.com/in/ricpiz92/](https://www.linkedin.com/in/ricpiz92/)
+*   **GitHub:** [https://github.com/RicPiz](https://github.com/RicPiz))
